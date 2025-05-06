@@ -35,10 +35,8 @@ joblib (for model serialization)
 matplotlib, seaborn (included for possible future visualizations)
 
 📂 Folder Structure
-bash
-Copy
-Edit
-model/
+model-
+
 ├── ids_model_final.joblib     # Trained classifier
 ├── scaler.joblib              # Feature scaler
 └── selector.joblib            # Feature selector
