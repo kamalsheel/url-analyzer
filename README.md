@@ -38,8 +38,11 @@ matplotlib, seaborn (included for possible future visualizations)
 model-
 
 ├── ids_model_final.joblib     # Trained classifier
+
 ├── scaler.joblib              # Feature scaler
+
 └── selector.joblib            # Feature selector
+
 🔧 How It Works
 User inputs a URL.
 
